@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkaprova Haldar</h1>
-<h3 align="center">Final-year Dual Degree Student at IIT Kharagpur | SDE Enthusiast | Systems, Full-Stack & Applied LLMs</h3>
+<h3 align="center">Pre-Final-year Dual Degree Student at IIT Kharagpur | SDE Enthusiast | Systems, Full-Stack & Applied LLMs</h3>
 
 ---
 
